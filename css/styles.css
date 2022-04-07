@@ -186,6 +186,9 @@ body{
     color: var(--footer-link-color);
 }
 
+.footer-link:hover, .footer-link:focus {
+    color: var(--accent-color);
+}
 /* --------------------------PORTFOLIO--------------------------- */
 
 .portfolio-btn{
